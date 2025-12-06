@@ -74,4 +74,6 @@
 - C# 
 ---
 ### 🎥 결과(동영상)
-[![Ele:Mental 시연 영상](https://img.youtube.com/vi/tJMTwikOGbs?feature=shared.jpg)](https://youtu.be/tJMTwikOGbs?feature=shared)
+
+[![Ele:Mental 시연 영상](https://img.youtube.com/vi/tJMTwikOGbs/0.jpg)](https://youtu.be/tJMTwikOGbs)
+
